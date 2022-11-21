@@ -66,3 +66,5 @@ The next stages of this project will include further model improvement, such as,
 
   
   - the next iteration of deployment would be to have an 'other' album, so that images of all kinds can be input into the model and the model will place images that are not one of the 4 classes into the 'other' album. 
+  
+  - work on improving deployment (initially created a trial file for streamlit application)
