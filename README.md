@@ -68,3 +68,13 @@ The next stages of this project will include further model improvement, such as,
   - the next iteration of deployment would be to have an 'other' album, so that images of all kinds can be input into the model and the model will place images that are not one of the 4 classes into the 'other' album. 
   
   - work on improving deployment (initially created a trial file for streamlit application)
+
+
+<img width="350" alt="12" src="https://user-images.githubusercontent.com/70770111/203125269-85f19bc1-7365-4426-9324-645b460e37ec.PNG"> <img width="350" alt="123" src="https://user-images.githubusercontent.com/70770111/203125467-4d4268a3-2a5f-4f2f-a6de-ae0e1b65a673.PNG"> 
+
+<img width="350" alt="321" src="https://user-images.githubusercontent.com/70770111/203125697-c641f65e-4202-4d6b-b341-61e00e143415.PNG"> <img width="350" alt="3" src="https://user-images.githubusercontent.com/70770111/203125820-5bb9b127-7661-4fe9-b528-048278a9ec41.PNG">
+
+
+
+
+
